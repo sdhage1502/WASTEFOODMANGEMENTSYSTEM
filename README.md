@@ -12,6 +12,8 @@ HTML
 
 CSS
 
+JavaScript
+
 MySQL
 
 Features
